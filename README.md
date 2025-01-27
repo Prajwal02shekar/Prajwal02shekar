@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me *prajwal02shekar@gmail.com*
 
-- 📄 Know about my experiences : <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="25" alt="linkedin logo"  />
-
 ###
 <div><h3>Do I Write? Check This Out : <a href = "https://www.notion.so/Java-Notes-e80171efd8ac46a5a69afd308bbfcf64?pvs=4">Java</a></h3></div>
 
@@ -64,26 +62,13 @@ Here are some ideas to get you started:
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   </div>
-  
-  <h3>Server</h3>
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="Tomcat logo" />
-  <img width="12" />
-  
-
   </div>
 
   <h3>Tools</h3>
   <div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Maven logo" />
- <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
@@ -102,12 +87,6 @@ Here are some ideas to get you started:
 
 ###
 
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevith-u&theme=2077" alt="jeevith-u" /></p>
 
-<p><img img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevith-u&show_icons=true&locale=en&layout=compact" alt="jeevith-u" /></p>
-
-<p><img<img align="right" width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeevith-u&theme=2077" alt="jeevith-u" /></p>
-
-<p><img img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevith-u&" alt="jeevith-u" /></p>
 
 ###
