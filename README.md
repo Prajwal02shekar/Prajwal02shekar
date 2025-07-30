@@ -85,7 +85,14 @@ Here are some ideas to get you started:
   </div>
 
 ###
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal02sheka2&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal02sheka&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
 
 
 ###
