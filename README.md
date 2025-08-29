@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Prajwal</h1>
 <h3 align="center">Hey there, this is Prajwal  I am Software Developer. What do I do? Well I build Applications And Software. What do I use 🧐? Check out the thing below👇🏻</h3>
 
-- 🌱 I’m currently learning *Docker, Kubernetes, AWS*
+- 🌱 I’m currently learning *Azure*
 
-- 💬 Ask me about *React JS, Javascript, Typescript*
+- 💬 Ask me about *MERN, JAVA, AWS*
 
 - 📫 How to reach me *prajwal02shekar@gmail.com*
 
@@ -56,6 +56,10 @@ Here are some ideas to get you started:
    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="40" alt="nodejs logo"  />
      <img width="12" />
    <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" height="40" alt="express logo"  />
+    <img width="12" />
+   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="40" alt="aws logo"  />
+    <img width="12" />
+   <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" height="40" alt="docker logo"  />
   </div>
   
   
