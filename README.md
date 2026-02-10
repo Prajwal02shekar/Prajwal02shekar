@@ -94,9 +94,12 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal02shekar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal02shekar&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal02shekar&show_icons=true&theme=radical&count_private=true" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal02shekar&layout=compact&theme=radical" />
+</p>
+
 
 ---
 
